@@ -3,17 +3,11 @@ Curso de SQL Server - TSQL da DevDojo
 FAQ
 Q. Quem criou?
 
-A. O cara que tem umas tarrachas soltas no cérebro que colocou um curso desses gratuito foi esse aqui: https://www.linkedin.com/in/fabricio-chousa-08358b125/
+A. https://www.linkedin.com/in/fabricio-chousa-08358b125/
 
 Q. Quem editou os vídeos?
 
-A. Um cara deveras bom, que também tem um parafuso a menos, já que editou de graça: https://www.linkedin.com/in/wildneisuane/
-
-Q. Aonde eu posso assistir?
-
-A. Em breve vamos colocar a PlayList toda aqui
-
-Q. Quais assuntos vocês falam no curso?
+A. https://www.linkedin.com/in/wildneisuane/
 
 A. Estamos publicando aos poucos, até agora tá assim:
 01 - Introdução
